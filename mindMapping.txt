@@ -1,0 +1,23 @@
+Great Json Object For Questions
+--inprogress
+
+start creatin HTML markup 
+Add Dummy Data
+Create The Styling 
+Fetch Number of Qustions from json object
+show Questions count + Questions category
+show the number of bullets depend on Questions count
+set the Number for the right and wrong answers 
+create count down timer 
+fetch the Questions from the json object 
+show first Question
+check if whether the answer wrong ro correct and hide the question then show the next one
+if the count down timer end mark the question as wrong and show the next question
+add class on bullets after answering the Question
+if Questions finished show the result 
+
+Ideas 
+- Many JSON objects and show language 
+- Add many questions and choose only 10 randomly
+- randomize answers
+ 

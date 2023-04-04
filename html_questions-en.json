@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Why we use the <br> tag?",
+    "answer_1": "To make text bold",
+    "answer_2": "To make text italic",
+    "answer_3": "To add a breakline",
+    "answer_4": "To make a horizontal line",
+    "right_answer": "To add a breakline"
+  },
+  {
+    "title": "What is the correct HTML element for inserting an image?",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<picture>",
+    "answer_4": "<figure>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "Which attribute is used to specify a unique name for an HTML element?",
+    "answer_1": "class",
+    "answer_2": "id",
+    "answer_3": "name",
+    "answer_4": "data",
+    "right_answer": "id"
+  },
+  {
+    "title": "What is the correct HTML for making a checkbox?",
+    "answer_1": "<check>",
+    "answer_2": "<input type='check'>",
+    "answer_3": "<input type='checkbox'>",
+    "answer_4": "<checkbox>",
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "High Traffic Markup Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Home Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "What is the correct HTML element for making a hyperlink?",
+    "answer_1": "<a>",
+    "answer_2": "<hyperlink>",
+    "answer_3": "<link>",
+    "answer_4": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What is the correct HTML for creating a table?",
+    "answer_1": "<table>",
+    "answer_2": "<tab>",
+    "answer_3": "<tr>",
+    "answer_4": "<td>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "Which HTML tag is used to define an internal style sheet?",
+    "answer_1": "<script>",
+    "answer_2": "<style>",
+    "answer_3": "<css>",
+    "answer_4": "<link>",
+    "right_answer": "<style>"
+  },
+  {
+    "title": "What is the correct HTML for creating a dropdown list?",
+    "answer_1": "<input type='dropdown'>",
+    "answer_2": "<list>",
+    "answer_3": "<dropdown>",
+    "answer_4": "<select>",
+    "right_answer": "<select>"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "لماذا نستخدم علامة <br>؟",
+    "answer_1": "لجعل النص سميكاً",
+    "answer_2": "لجعل النص مائلاً",
+    "answer_3": "لإضافة فراغ بين الأسطر",
+    "answer_4": "لجعل خط أفقي",
+    "right_answer": "لإضافة فراغ بين الأسطر"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لإدراج صورة؟",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<picture>",
+    "answer_4": "<figure>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "أي صفة تستخدم لتحديد اسم فريد لعنصر HTML؟",
+    "answer_1": "class",
+    "answer_2": "id",
+    "answer_3": "name",
+    "answer_4": "data",
+    "right_answer": "id"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لإنشاء مربع اختيار؟",
+    "answer_1": "<check>",
+    "answer_2": "<input type='check'>",
+    "answer_3": "<input type='checkbox'>",
+    "answer_4": "<checkbox>",
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "title": "ماذا تعني HTML؟",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "High Traffic Markup Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Home Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لإنشاء رابط؟",
+    "answer_1": "<a>",
+    "answer_2": "<hyperlink>",
+    "answer_3": "<link>",
+    "answer_4": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لإنشاء جدول؟",
+    "answer_1": "<table>",
+    "answer_2": "<tab>",
+    "answer_3": "<tr>",
+    "answer_4": "<td>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لتحديد ورقة أنماط داخلية؟",
+    "answer_1": "<script>",
+    "answer_2": "<style>",
+    "answer_3": "<css>",
+    "answer_4": "<link>",
+    "right_answer": "<style>"
+  },
+  {
+    "title": "ما هو العنصر الصحيح في HTML لإدراج قائمة غير مرتبة؟",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<list>",
+    "answer_4": "<menu>",
+    "right_answer": "<ul>"
+  }
+]
